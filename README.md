@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 There is a List of songs and after clicking each of them we can see their details.
-!['SelectedSongDetails']()
+!['SelectedSongDetails'](https://github.com/ArpitaDeb/songs/blob/main/docs/songListWithDetails.gif?raw=true)
 ## Available Scripts
 
 In the project directory, you can run:
